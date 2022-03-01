@@ -1,4 +1,4 @@
-module github.com/ghodss/yaml
+module github.com/onemoreteam/yaml
 
 go 1.17
 
